@@ -1,0 +1,37 @@
+body{
+    background-color: gray;
+}
+
+.box {
+    width: 271px;
+    margin: 80px;
+    background-color:white;
+    padding: 10px;
+}
+
+.red {
+    background-color: rgb(221, 20, 37);
+    width: 200px;
+    height: 200px;
+    border: 1em solid darkred;
+    margin-bottom: 1em;
+    padding-right: 40px;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 1em solid darkgoldenrod;
+    margin-bottom: 1em;
+    padding-right: 40px
+}
+
+.green {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border: 1em solid darkgreen;
+    margin-bottom: 1em;
+    padding-right: 40px;
+}
